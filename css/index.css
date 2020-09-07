@@ -311,3 +311,22 @@ a {
         height: auto;
     }
 }
+
+.addToCart {
+    padding: 15px 20px;
+    display: block;
+    max-width: 200px;
+    background: #0575E6;
+    background: -webkit-linear-gradient(to bottom, #021B79, #0575E6);
+    background: linear-gradient(to bottom, #2351ff, #0c4580);
+    border-radius: 10px;
+    text-transform: uppercase;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    font-size: 21px;
+    color: white;
+    text-decoration: none;
+}
+
+.product {
+    max-width: 380px;
+}
